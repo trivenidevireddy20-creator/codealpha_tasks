@@ -46,3 +46,7 @@ These projects were developed as part of my **CodeAlpha Python Internship** to i
 ## Author
 
 **Triveni Devireddy**
+
+## GitHub Repository
+
+[View my GitHub Repository](https://github.com/trivenidevireddy20-creator/codealpha_tasks)
